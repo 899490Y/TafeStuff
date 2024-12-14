@@ -1090,3 +1090,7 @@ $ git config --global color.ui 1
 ```
 HELLO
 ```
+
+```
+HELLO AGAIN
+```
